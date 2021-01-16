@@ -1,5 +1,5 @@
 # ML_MarketSegmentation
-Unsupervised Machine Learning for Customer Market Segmentation using K-Means and PCA (Python and Jupiter Notebook)
+Unsupervised Machine Learning for Customer Market Segmentation using K-Means and PCA (Python and Jupyter Lab Notebook)
 
 Guided Project completed by Suhaimi William Chan
 
