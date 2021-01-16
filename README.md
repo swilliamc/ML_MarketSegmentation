@@ -5,10 +5,10 @@ Guided Project completed by Suhaimi William Chan
 
 Instructor: Ryan Ahmed
 
-Included are 
+Included are: 
 
 Unsupervised Machine Learning for Customer Market Segmentation presentation
 
-Jupiter Notebook file
+Bank Customer Segmentation Jupiter Notebook file
 
-Data file in csv format
+Marketing Data file in csv format
