@@ -12,3 +12,7 @@ Unsupervised Machine Learning for Customer Market Segmentation presentation
 Bank Customer Segmentation Jupiter Notebook file
 
 Marketing Data file in csv format
+
+Data source from kaggle:
+
+https://www.kaggle.com/arjunbhasin2013/ccdata
